@@ -13,23 +13,48 @@ O laboratório tem como seus principais objetivos:
 ## Membros do laboratório
 
 ### Docentes
-
+- Adrianne (MSc.)
+- Alexandre
+- Amarildo Lucena (MSc.)
+- Fabrício Vale (MSc.)
+- Flavius Gorgônio (Dr.)
+- Karliane Vale (MSc.)
+- Taciano Silva (MSc.)
 
 ### Discentes
-
+- Alan Tavares
+- André Medeiros
+- Arthur Gorgônio
+- Cainan Alves
+- Diego Araújo
+- Marcelo Augusto
+- Pablo Lopes
+- Paulo Wagner
 
 ## LabCoffee
 
-É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica. 
+É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica.
 
 ### Apresentações
 
-- 2018.03.21 - **Pacotes de desenvolvimento para estudantes**
-  - Arthur Gorgônio
-- 2018.03.28 - **Introdução ao Redmine**
-  - Taciano Silva
+- 2018.05.16 - ** PROLOG - PROgrammation en LOGique **
+  - Flavius Gorgônio
+- 2018.05.09 - ** S4A - Scratch 4 Arduino **
+  - Flavius Gorgônio
+- 2018.05.02 - ** Vim - Vi IMpruved **
+  - Bruno Araújo
+- 2018.04.25 - ** Família ESP **
+  - Paulo Wagner
+- 2018.04.18 - ** Python Django - Framework para Web Development **
+  - Diego Araújo
+- 2018.04.11 - ** Android Studio **
+  - Cainan Alves
 - 2018.04.04 - **R - Linguagem e IDE**
   - André Medeiros
+- 2018.03.28 - **Introdução ao Redmine**
+  - Taciano Silva
+- 2018.03.21 - **Pacotes de desenvolvimento para estudantes**
+  - Arthur Gorgônio
 
 
 <!-- inserir links e imagens [Link](url) and ![Image](src) -->
