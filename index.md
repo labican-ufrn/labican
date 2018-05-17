@@ -37,17 +37,17 @@ O laboratório tem como seus principais objetivos:
 
 ### Apresentações
 
-- 2018.05.16 - ** PROLOG - PROgrammation en LOGique **
+- 2018.05.16 - **PROLOG - PROgrammation en LOGique**
   - Flavius Gorgônio
-- 2018.05.09 - ** S4A - Scratch 4 Arduino **
+- 2018.05.09 - **S4A - Scratch 4 Arduino**
   - Flavius Gorgônio
-- 2018.05.02 - ** Vim - Vi IMpruved **
+- 2018.05.02 - **Vim - Vi IMpruved**
   - Bruno Araújo
-- 2018.04.25 - ** Família ESP **
+- 2018.04.25 - **Família ESP**
   - Paulo Wagner
-- 2018.04.18 - ** Python Django - Framework para Web Development **
+- 2018.04.18 - **Python Django - Framework para Web Development**
   - Diego Araújo
-- 2018.04.11 - ** Android Studio **
+- 2018.04.11 - **Android Studio**
   - Cainan Alves
 - 2018.04.04 - **R - Linguagem e IDE**
   - André Medeiros
