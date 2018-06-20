@@ -37,11 +37,17 @@ O laboratório tem como seus principais objetivos:
 
 ### Apresentações
 
+- 2018.06.13 - **Inteligência Artificial**
+  - Gabriel Batista
+- 2018.06.06 - **Three.js**
+  - Jhonatas Israel
+- 2018.05.23 - **Vantagens e Desvantagens da Tecnologia**
+  - José Flávio Maia
 - 2018.05.16 - **PROLOG - PROgrammation en LOGique**
   - Flavius Gorgônio
 - 2018.05.09 - **S4A - Scratch 4 Arduino**
   - Flavius Gorgônio
-- 2018.05.02 - **Vim - Vi IMpruved**
+- 2018.05.02 - **Vim - Vi IMproved**
   - Bruno Araújo
 - 2018.04.25 - **Família ESP**
   - Paulo Wagner
