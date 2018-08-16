@@ -15,19 +15,19 @@ O laboratório tem como seus principais objetivos:
 ### Docentes
 - Adrianne (MSc.)
 - Alexandre
-- [Amarildo Lucena (MSc.)](github.com/amarildolucena)
+- [Amarildo Lucena (MSc.)](www.github.com/amarildolucena)
 - Fabrício Vale (MSc.)
-- [Flavius Gorgônio (Dr.)](github.com/flgorgonio)
-- [Karliane Vale (MSc.)](github.com/karlianev)
-- [Taciano Silva (MSc.)](github.com/tacianosilva)
+- [Flavius Gorgônio (Dr.)](www.github.com/flgorgonio)
+- [Karliane Vale (MSc.)](www.github.com/karlianev)
+- [Taciano Silva (MSc.)](www.github.com/tacianosilva)
 
 ### Discentes
 - Alan Tavares
-- [André Medeiros](github.com/medeirosandre)
-- [Arthur Gorgônio](github.com/ArthurGorgonio)
-- [Bruno Araújo](github.com/araujobd)
-- [Cainan Alves](github.com/cainanalves)
-- [Diego Araújo](github.com/diegoolinto)
+- [André Medeiros](www.github.com/medeirosandre)
+- [Arthur Gorgônio](www.github.com/ArthurGorgonio)
+- [Bruno Araújo](www.github.com/araujobd)
+- [Cainan Alves](www.github.com/cainanalves)
+- [Diego Araújo](www.github.com/diegoolinto)
 - Gabriel Batista
 - Jhonata Israel
 - José Flávio Maia
