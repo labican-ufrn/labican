@@ -15,21 +15,26 @@ O laboratório tem como seus principais objetivos:
 ### Docentes
 - Adrianne (MSc.)
 - Alexandre
-- Amarildo Lucena (MSc.)
+- [Amarildo Lucena (MSc.)](github.com/amarildolucena)
 - Fabrício Vale (MSc.)
-- Flavius Gorgônio (Dr.)
-- Karliane Vale (MSc.)
-- Taciano Silva (MSc.)
+- [Flavius Gorgônio (Dr.)](github.com/flgorgonio)
+- [Karliane Vale (MSc.)](github.com/karlianev)
+- [Taciano Silva (MSc.)](github.com/tacianosilva)
 
 ### Discentes
 - Alan Tavares
-- André Medeiros
-- Arthur Gorgônio
-- Cainan Alves
-- Diego Araújo
+- [André Medeiros](github.com/medeirosandre)
+- [Arthur Gorgônio](github.com/ArthurGorgonio)
+- [Bruno Araújo](github.com/araujobd)
+- [Cainan Alves](github.com/cainanalves)
+- [Diego Araújo](github.com/diegoolinto)
+- Gabriel Batista
+- Jhonata Israel
+- José Flávio Maia
 - Marcelo Augusto
 - Pablo Lopes
 - Paulo Wagner
+- Tatiana Alves
 
 ## LabCoffee
 
@@ -37,6 +42,10 @@ O laboratório tem como seus principais objetivos:
 
 ### Apresentações
 
+- 2018.08.15 - **Tema**
+  - Tatiana Alves
+- 2018.08.01 - **Modelagem de Simulação de Processos**
+  - Amarildo Lucena
 - 2018.06.13 - **Inteligência Artificial**
   - Gabriel Batista
 - 2018.06.06 - **Three.js**
