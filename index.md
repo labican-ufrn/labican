@@ -15,25 +15,25 @@ O laboratório tem como seus principais objetivos:
 ### Docentes
 - Adrianne (MSc.)
 - Alexandre
-- [Amarildo Lucena (MSc.)](https://.github.com/amarildolucena)
+- [Amarildo Lucena (MSc.)](https://www.github.com/amarildolucena)
 - Fabrício Vale (MSc.)
-- [Flavius Gorgônio (Dr.)](https://.github.com/flgorgonio)
-- [Karliane Vale (MSc.)](https://.github.com/karlianev)
-- [Taciano Silva (MSc.)](https://.github.com/tacianosilva)
+- [Flavius Gorgônio (Dr.)](https://www.github.com/flgorgonio)
+- [Karliane Vale (MSc.)](https://www.github.com/karlianev)
+- [Taciano Silva (MSc.)](https://www.github.com/tacianosilva)
 
 ### Discentes
 - Alan Tavares
-- [André Medeiros](https://.github.com/medeirosandre)
-- [Arthur Gorgônio](https://.github.com/ArthurGorgonio)
-- [Bruno Araújo](https://.github.com/araujobd)
-- [Cainan Alves](https://.github.com/cainanalves)
-- [Diego Araújo](https://.github.com/diegoolinto)
+- [André Medeiros](https://www.github.com/medeirosandre)
+- [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
+- [Bruno Araújo](https://www.github.com/araujobd)
+- [Cainan Alves](https://www.github.com/cainanalves)
+- [Diego Araújo](https://www.github.com/diegoolinto)
 - Gabriel Batista
 - Jhonata Israel
 - José Flávio Maia
 - Marcelo Augusto
 - Pablo Lopes
-- [Paulo Wagner](https://.github.com/pwagnersistemas)
+- [Paulo Wagner](https://www.github.com/pwagnersistemas)
 - Tatiana Alves
 
 ## LabCoffee
