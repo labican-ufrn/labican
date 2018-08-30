@@ -22,13 +22,15 @@ O laboratório tem como seus principais objetivos:
 - [Taciano Silva (MSc.)](https://www.github.com/tacianosilva)
 
 ### Discentes
-- Alan Tavares
+- [Alan Tavares](https://www.github.com/alanIF)
 - [André Medeiros](https://www.github.com/medeirosandre)
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
+- [Bruno Bezerra](https://www.github.com/Kmiokande)
 - [Cainan Alves](https://www.github.com/cainanalves)
 - [Diego Araújo](https://www.github.com/diegoolinto)
 - Gabriel Batista
+- [Higor Nóbrega](https://www.github.com/higornobrega)
 - Jhonata Israel
 - José Flávio Maia
 - Marcelo Augusto
@@ -41,8 +43,11 @@ O laboratório tem como seus principais objetivos:
 É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica.
 
 ### Apresentações
-
-- 2018.08.15 - **Tema**
+- 2018.09.12 - **LUA**
+  - Higor Nóbrega
+- 2018.08.29 - **Web Builders**
+  - Bruno Silva
+- 2018.08.22 - **Ensino de Programação no Ensino Básico**
   - Tatiana Alves
 - 2018.08.01 - **Modelagem de Simulação de Processos**
   - Amarildo Lucena
