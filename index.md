@@ -27,11 +27,12 @@ O laboratório tem como seus principais objetivos:
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
 - [Bruno Bezerra](https://www.github.com/Kmiokande)
+- [Bruno Silva](https://github.com/silv4b)
 - [Cainan Alves](https://www.github.com/cainanalves)
 - [Diego Araújo](https://www.github.com/diegoolinto)
 - Gabriel Batista
 - [Higor Nóbrega](https://www.github.com/higornobrega)
-- Jhonata Israel
+- [Jhonatas Israel](https://github.com/jhonatasisraelcl)
 - José Flávio Maia
 - Marcelo Augusto
 - Pablo Lopes
