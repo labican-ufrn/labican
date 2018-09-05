@@ -37,19 +37,24 @@ O laboratório tem como seus principais objetivos:
 - Marcelo Augusto
 - Pablo Lopes
 - [Paulo Wagner](https://www.github.com/pwagnersistemas)
-- Tatiana Alves
+- Tatiane Alves
 
 ## LabCoffee
 
 É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica.
 
 ### Apresentações
-- 2018.09.12 - **LUA**
+- 2018.09.12 - **A Defenir**
+  - Bruno Bezerra
+  - *reservas:*
+    - Jhonatas Israel
+    - Arthur Gorgônio
+- 2018.09.05 - **LUA**
   - Higor Nóbrega
 - 2018.08.29 - **Web Builders**
   - Bruno Silva
 - 2018.08.22 - **Ensino de Programação no Ensino Básico**
-  - Tatiana Alves
+  - Tatiane Alves
 - 2018.08.01 - **Modelagem de Simulação de Processos**
   - Amarildo Lucena
 - 2018.06.13 - **Inteligência Artificial**
