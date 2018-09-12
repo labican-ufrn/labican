@@ -23,17 +23,18 @@ O laboratório tem como seus principais objetivos:
 
 ### Discentes
 - [Alan Tavares](https://www.github.com/alanIF)
+- Amaro
 - [André Medeiros](https://www.github.com/medeirosandre)
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
 - [Bruno Bezerra](https://www.github.com/Kmiokande)
 - [Bruno Silva](https://github.com/silv4b)
 - [Cainan Alves](https://www.github.com/cainanalves)
-- [Diego Araújo](https://www.github.com/diegoolinto)
+- [Diego Araújo](https://www.github.com/diegoolinto) ![]
 - Gabriel Batista
 - [Higor Nóbrega](https://www.github.com/higornobrega)
 - [Jhonatas Israel](https://github.com/jhonatasisraelcl)
-- José Flávio Maia
+- José Maia
 - Marcelo Augusto
 - Pablo Lopes
 - [Paulo Wagner](https://www.github.com/pwagnersistemas)
@@ -44,11 +45,14 @@ O laboratório tem como seus principais objetivos:
 É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica.
 
 ### Apresentações
-- 2018.09.12 - **A Defenir**
-  - Bruno Bezerra
-  - *reservas:*
+- 2018.09.19 **A Definir**
+  - Amaro
+  - *Suplentes:*
+    - Bruno Bezerra
     - Jhonatas Israel
-    - Arthur Gorgônio
+    - Cainan Alves
+- 2018.09.12 - **Docker Contêiner**
+  - Arthur Gorgônio e Bruno Araújo
 - 2018.09.05 - **LUA**
   - Higor Nóbrega
 - 2018.08.29 - **Web Builders**
@@ -84,3 +88,5 @@ O laboratório tem como seus principais objetivos:
 
 
 <!-- inserir links e imagens [Link](url) and ![Image](src) -->
+
+<!-- -->
