@@ -30,7 +30,7 @@ O laboratório tem como seus principais objetivos:
 - [Bruno Bezerra](https://www.github.com/Kmiokande)
 - [Bruno Silva](https://github.com/silv4b)
 - [Cainan Alves](https://www.github.com/cainanalves)
-- [Diego Araújo](https://www.github.com/diegoolinto) ![]
+- [Diego Araújo](https://www.github.com/diegoolinto)
 - Gabriel Batista
 - [Higor Nóbrega](https://www.github.com/higornobrega)
 - [Jhonatas Israel](https://github.com/jhonatasisraelcl)
@@ -42,15 +42,22 @@ O laboratório tem como seus principais objetivos:
 
 ## LabCoffee
 
-É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras por volta de 08:40, para discussão de temas de interesse na área tecnológica.
+É um momento de compartilhamento de conhecimento, onde os integrantes do laboratório e alunos interessados reúnem-se semanalmente, às Quartas-feiras pontualmente às 08:40, para apresentação/discussão de temas de interesse na área tecnológica.
 
 ### Apresentações
-- 2018.09.19 **A Definir**
+As apresentações estão em ordem cronológica. No topo da lista está representada a apresentação da semana posterior onde, estão indicados o responsável pela apresentação e em caso de falta, os suplentes da mesma a fim de, garantir que a aprensentação seja realizada
+- YYYY.MM.DD **TEMA**
+  - Responsável pela aprensetação
+
+### Cronograma
+- 2018.09.26 **A Definir**
   - Amaro
   - *Suplentes:*
-    - Bruno Bezerra
     - Jhonatas Israel
     - Cainan Alves
+    - Taciano Silva
+- 2018.09.19 **Expressões Regulares**
+  - Bruno Bezerra
 - 2018.09.12 - **Docker Contêiner**
   - Arthur Gorgônio e Bruno Araújo
 - 2018.09.05 - **LUA**
