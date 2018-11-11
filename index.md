@@ -23,7 +23,7 @@ O laboratório tem como seus principais objetivos:
 
 ### Discentes
 - [Alan Tavares](https://www.github.com/alanIF)
-- Amaro
+- [Amaro](https://www.github.com/AmaroJunior98)
 - [André Medeiros](https://www.github.com/medeirosandre)
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
@@ -50,12 +50,18 @@ As apresentações estão em ordem cronológica. No topo da lista está represen
   - Responsável pela aprensetação
 
 ### Cronograma
-- 2018.09.26 **A Definir**
-  - Amaro
+- 2018.11.07 **A Definir**
+  - José Maia
   - *Suplentes:*
-    - Jhonatas Israel
+    - Gabriel Batista
+    - Paulo Henrique
+    
+- 2018.10.31 **Bluetooth Low Energy**
     - Cainan Alves
-    - Taciano Silva
+- 2018.10.10 **A revolução 4.0**
+   - Jhonatas Israel
+- 2018.09.26 **Big Data**
+  - Amaro Junior
 - 2018.09.19 **Expressões Regulares**
   - Bruno Bezerra
 - 2018.09.12 - **Docker Contêiner**
