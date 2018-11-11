@@ -23,7 +23,7 @@ O laboratório tem como seus principais objetivos:
 
 ### Discentes
 - [Alan Tavares](https://www.github.com/alanIF)
-- Amaro
+- [Amaro Júnior](https://www.github.com/AmaroJunior98)
 - [André Medeiros](https://www.github.com/medeirosandre)
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
