@@ -23,7 +23,7 @@ O laboratório tem como seus principais objetivos:
 
 ### Discentes
 - [Alan Tavares](https://www.github.com/alanIF)
-- [Amaro](https://www.github.com/AmaroJunior98)
+- [Amaro Júnior](https://www.github.com/AmaroJunior98)
 - [André Medeiros](https://www.github.com/medeirosandre)
 - [Arthur Gorgônio](https://www.github.com/ArthurGorgonio)
 - [Bruno Araújo](https://www.github.com/araujobd)
@@ -31,14 +31,14 @@ O laboratório tem como seus principais objetivos:
 - [Bruno Silva](https://github.com/silv4b)
 - [Cainan Alves](https://www.github.com/cainanalves)
 - [Diego Araújo](https://www.github.com/diegoolinto)
-- Gabriel Batista
+- [Gabriel Batista](https://www.github.com/GabrielFelix99)
 - [Higor Nóbrega](https://www.github.com/higornobrega)
 - [Jhonatas Israel](https://github.com/jhonatasisraelcl)
-- José Maia
+- [José Maia](https://www.github.com/JFmaia)
 - Marcelo Augusto
 - Pablo Lopes
 - [Paulo Wagner](https://www.github.com/pwagnersistemas)
-- Tatiane Alves
+- [Tatiane Alves](https://www.github.com/tatianealves2)
 
 ## LabCoffee
 
