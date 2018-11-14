@@ -50,11 +50,12 @@ As apresentações estão em ordem cronológica. No topo da lista está represen
   - Responsável pela aprensetação
 
 ### Cronograma
-- 2018.11.07 **A Definir**
-  - José Maia
+- 2018.11.07 **Uma breve introdução sobre Bioinformática**
+  - Paulo Henrique
   - *Suplentes:*
+    - José Maia
     - Gabriel Batista
-    - Paulo Henrique
+   
     
 - 2018.10.31 **Bluetooth Low Energy**
     - Cainan Alves
