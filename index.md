@@ -37,6 +37,7 @@ O laboratório tem como seus principais objetivos:
 - [José Maia](https://www.github.com/JFmaia)
 - Marcelo Augusto
 - Pablo Lopes
+- [Paulo Henrique](https://www.github.com/paulodntsss)
 - [Paulo Wagner](https://www.github.com/pwagnersistemas)
 - [Tatiane Alves](https://www.github.com/tatianealves2)
 
@@ -50,12 +51,17 @@ As apresentações estão em ordem cronológica. No topo da lista está represen
   - Responsável pela aprensetação
 
 ### Cronograma
-- 2018.11.07 **A Definir**
+- 2018.11.21 **A Definir**
   - José Maia
   - *Suplentes:*
     - Gabriel Batista
+    
+- 2018.11.14 **Slack: Where work happens**
+    - Taciano Silva  
+- 2018.11.14 **Bioinformática**
     - Paulo Henrique
-
+- 2018.11.07 **UI x UX**
+    - Bruno Silva
 - 2018.10.31 **Bluetooth Low Energy**
     - Cainan Alves
 - 2018.10.10 **A revolução 4.0**
