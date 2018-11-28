@@ -56,6 +56,8 @@ As apresentações estão em ordem cronológica. No topo da lista está represen
     - Gabriel Batista
     - Paulo Henrique
 
+- 2018.11.07 **UI x UI**
+    - Bruno Silva
 - 2018.10.31 **Bluetooth Low Energy**
     - Cainan Alves
 - 2018.10.10 **A revolução 4.0**
