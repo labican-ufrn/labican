@@ -49,13 +49,16 @@ As apresentações estão em ordem cronológica. No topo da lista está represen
 - YYYY.MM.DD **TEMA**
   - Responsável pela aprensetação
 
-### Cronograma
+### Cronograma 
 - 2018.11.07 **A Definir**
   - José Maia
   - *Suplentes:*
     - Gabriel Batista
-    - Paulo Henrique
 
+- 2018.11.14 **Slack: Where work happens**
+    - Taciano Silva    
+- 2018.11.14 **Uma breve introdução sobre Bioinformática**
+    - Paulo Henrique
 - 2018.11.07 **UI x UI**
     - Bruno Silva
 - 2018.10.31 **Bluetooth Low Energy**
